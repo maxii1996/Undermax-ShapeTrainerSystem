@@ -3,4 +3,6 @@
 
 👉🏻    https://maxii1996.github.io/Undermax-ShapeTrainerSystem/
 
-==== IN DEV ====
+== GET THE PLUGIN ON ==
+
+https://undermax.itch.io/
